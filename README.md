@@ -5,7 +5,7 @@ Hackerearth Challenge( deadline- 30th nov. 2017)
 
 Submission date| My Score  | Leaderboard Max score | Approach
 ----------- | ------------- | ------------- | ---------------
-18th oct. 17| 74.976  | 90.624 | multinomialNB with standard stoplist
+18th oct. 17| 86.781  | 90.624 | multinomialNB with standard stoplist
 
 
 # References:
