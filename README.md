@@ -3,9 +3,14 @@ Hackerearth Challenge( deadline- 30th nov. 2017)
 
 ## Stats of 70% of the test dataset, as checked on Hackerearth:
 
-Submission date| My Score  | Leaderboard Max score | Approach
------------ | ------------- | ------------- | ---------------
-18th oct. 17| 86.781  | 90.624 | multinomialNB with standard stoplist
+Submission date|My Score | Leaderboard Max score| Approach
+-----------    | ------- |        ------------- | ---------------
+18th oct. 17   | 86.781  | 90.624               | multinomialNB with standard stoplist|
+20th oct. 17   |86.363   | 90.624               | using MultinomialNB with TF1 stoplist only |
+20th oct. 17   |84.070   | 90.624               | using MultinomialNB with TF1 stoplist only and TFIDF approach|
+20th oct. 17   |86.300   | 90.624               | using MultinomialNB with tf_high(thresh 7500) stoplist in addition to tf1|
+20th oct. 17   | 86.630  | 90.624               | using MultinomialNB with tf_high(thresh 7500) stoplist in addition to tf1 and standard stoplist|
+
 
 
 # References:
