@@ -10,6 +10,7 @@ Submission date|My Score | Leaderboard Max score| Approach
 20th oct. 17   |84.070   | 90.624               | using MultinomialNB with TF1 stoplist only and TFIDF approach|
 20th oct. 17   |86.300   | 90.624               | using MultinomialNB with tf_high(thresh 7500) stoplist in addition to tf1|
 20th oct. 17   | 86.630  | 90.624               | using MultinomialNB with tf_high(thresh 7500) stoplist in addition to tf1 and standard stoplist|
+23rd oct. 17   |80.878   | 90.624               | Random Forest Classiffier
 
 
 
