@@ -11,6 +11,7 @@ Submission date|My Score | Leaderboard Max score| Approach
 20th oct. 17   |86.300   | 90.624               | using MultinomialNB with tf_high(thresh 7500) stoplist in addition to tf1|
 20th oct. 17   | 86.630  | 90.624               | using MultinomialNB with tf_high(thresh 7500) stoplist in addition to tf1 and standard stoplist|
 23rd oct. 17   |80.878   | 90.624               | Random Forest Classiffier
+28th oct. 17   |86.668   | 90.624               | Removed hyphens and used Lemmatizer, used MultinomialNB
 
 
 
