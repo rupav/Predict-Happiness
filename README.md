@@ -29,9 +29,9 @@ Should have tried Deep Learning.
 
 # References:
 [Stopwords analysis](http://www.lrec-conf.org/proceedings/lrec2014/pdf/292_Paper.pdf) : For 2nd approach- key points :
- * TF1 outperforms other stoplists
- * standard stoplist has a negative impact on sentiment analysis
- * NB is more sensitive to stopwords removal than MaxEntropy
+ * TF1 outperforms other stoplists.
+ * standard stoplist has a negative impact on sentiment analysis.
+ * NB is more sensitive to stopwords removal than MaxEntropy.
  * Two more approaches- TBRS and Mutual Information can be explored!
 
 # TO DO after challenge deadline:
